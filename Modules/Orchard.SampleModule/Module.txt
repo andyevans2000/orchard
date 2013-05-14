@@ -1,0 +1,8 @@
+﻿Name: WeBelieveIt.Sample
+AntiForgery: enabled
+Author: Andy Evans
+Website: http://www.webelieveit.co.uk
+Version: 1.0
+OrchardVersion: 1.6
+Description: Orchard Webshop Module Demo
+Category: Sample
